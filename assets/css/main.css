@@ -1474,7 +1474,7 @@ input, select, textarea {
 	form textarea {
 		-webkit-appearance: none;
 		border: 0;
-		background: #ffffff;
+		background: #f4f4f4;
 		padding: 0.75em;
 		width: 100%;
 		-moz-transition: background-color .25s ease-in-out;
@@ -1488,7 +1488,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			background: #ffffff;
+			background: #f4f4f4;
 		}
 
 	form input[type="text"],
