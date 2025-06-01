@@ -1306,7 +1306,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #32C732;
+		background-color: #c0cfb2;
 		overflow-y: scroll;
 	}
 
@@ -1441,7 +1441,7 @@ input, select, textarea {
 	}
 
 		table.default tbody tr {
-			border-bottom: solid 1px #32C732;
+			border-bottom: solid 1px #c0cfb2;
 		}
 
 		table.default td {
@@ -1455,7 +1455,7 @@ input, select, textarea {
 		}
 
 		table.default thead {
-			border-bottom: solid 2px #32C732;
+			border-bottom: solid 2px #c0cfb2;
 		}
 
 /* Form */
@@ -1474,7 +1474,7 @@ input, select, textarea {
 	form textarea {
 		-webkit-appearance: none;
 		border: 0;
-		background: #32C732;
+		background: #c0cfb2;
 		padding: 0.75em;
 		width: 100%;
 		-moz-transition: background-color .25s ease-in-out;
@@ -1488,7 +1488,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			background: #32C732;
+			background: #c0cfb2;
 		}
 
 	form input[type="text"],
